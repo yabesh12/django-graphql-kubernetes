@@ -1,0 +1,55 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Django Stuff
+*.log
+*.sqlite3
+db.sqlite3
+/media
+/staticfiles
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.iml
+
+# Environment variables
+.env
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.tmp
+
+# Test output
+test_output/
+*.orig
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+minikube-linux-amd64/
